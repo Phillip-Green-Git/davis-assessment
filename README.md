@@ -2,6 +2,11 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Requirements
+
+1. **Expo Version**: ^51.0.30
+2. **expo-image-picker Version**: ^13.3.1
+
 ## Get started
 
 1. Install dependencies
